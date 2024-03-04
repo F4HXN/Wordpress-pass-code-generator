@@ -2,9 +2,13 @@
 Un générateur de passcode APRS pour WordPress
 
 Description: Un générateur de passcode APRS pour WordPress.
+
 Version: 1.0
+
 Author: F4HXN Mansouri Jean-Paul
+
 Author URI: https://www.f4hxn.fr
+
 License: GPL2
 
 Ce code crée un shortcode WordPress qui intègre le formulaire et le script JavaScript directement dans le contenu de WordPress. Le shortcode à utiliser dans vos pages ou articles sera [aprs_passcode_generator].
