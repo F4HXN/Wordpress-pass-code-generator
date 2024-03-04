@@ -3,7 +3,7 @@ Un générateur de passcode APRS pour WordPress
 
 
 Plugin Name: Générateur de Passcode APRS
-Plugin URI: http://votre-site.com
+Plugin URI: https://www.f4hxn.fr
 Description: Un générateur de passcode APRS pour WordPress.
 Version: 1.0
 Author: F4HXN Mansouri Jean-Paul
