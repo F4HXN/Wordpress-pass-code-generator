@@ -1,4 +1,4 @@
-# Wordpress-pass-code-generator
+# Wordpress-APRS-pass-code-generator
 Un générateur de passcode APRS pour WordPress
 
 
