@@ -5,7 +5,7 @@ Plugin URI: http://votre-site.com
 Description: Un générateur de passcode APRS pour WordPress.
 Version: 1.0
 Author: F4HXN Mansouri Jean-Paul
-Author URI: http://votre-site.com
+Author URI: http://f4hxn.fr
 License: GPL2
 */
 
