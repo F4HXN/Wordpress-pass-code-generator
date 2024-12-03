@@ -1,23 +1,54 @@
-# Wordpress-APRS-pass-code-generator
-Un générateur de passcode APRS pour WordPress
+# 📡 Générateur de Passcode APRS - Plugin WordPress
 
-Description: Un générateur de passcode APRS pour WordPress.
+Plugin WordPress permettant d'intégrer facilement un générateur de passcode APRS dans vos pages via shortcode.
 
-Version: 1.0
+## ✨ Caractéristiques
 
-Author: F4HXN Mansouri Jean-Paul
+- Génération instantanée de passcode APRS
+- Interface moderne et responsive
+- Installation simple
+- Intégration via shortcode
 
-Author URI: https://www.f4hxn.fr
+## 🚀 Installation
 
-License: GPL2
+1. Téléchargez le plugin
+2. Copiez le dossier `aprs_passcode_generator` dans `/wp-content/plugins/`
+3. Activez l'extension dans WordPress
 
-Ce code crée un shortcode WordPress qui intègre le formulaire et le script JavaScript directement dans le contenu de WordPress. Le shortcode à utiliser dans vos pages ou articles sera [aprs_passcode_generator].
+## 💻 Utilisation
 
-Copier le fichier:
-Copier le fichier aprs-passcode-generator.php dans le repertoie /wp-content/plugins/aprs_passcode_generator/
+```
+[aprs_passcode_generator]
+```
 
-Activer l'extension:
-Allez dans le tableau de bord WordPress, dans la section "Extensions" et activez l'extension "Générateur de Passcode APRS".
+## 🎨 Personnalisation
 
-Utiliser le shortcode:
-Ajoutez le shortcode [aprs_passcode_generator] dans le contenu d'une page ou d'un article où vous souhaitez afficher le générateur de passcode.
+```css
+.aprs-generator {
+    /* Vos styles */
+}
+```
+
+## 🔧 Prérequis
+
+- WordPress 5.0+
+- PHP 7.2+
+
+## 📝 Changelog
+
+### 1.0.0
+- Version initiale
+
+## 🤝 Support
+
+- Documentation : [Wiki](https://github.com/votre-repo/wiki)
+- Bugs : [Issues](https://github.com/votre-repo/issues)
+- Contact : support@votresite.com
+
+## 📜 Licence
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+---
+
+Développé avec ❤️ par [Votre Nom](https://votresite.com)
