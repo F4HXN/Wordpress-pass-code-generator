@@ -21,19 +21,6 @@ Plugin WordPress permettant d'intégrer facilement un générateur de passcode A
 [aprs_passcode_generator]
 ```
 
-## 🎨 Personnalisation
-
-```css
-.aprs-generator {
-    /* Vos styles */
-}
-```
-
-## 🔧 Prérequis
-
-- WordPress 5.0+
-- PHP 7.2+
-
 ## 📝 Changelog
 
 ### 1.0.0
@@ -41,14 +28,12 @@ Plugin WordPress permettant d'intégrer facilement un générateur de passcode A
 
 ## 🤝 Support
 
-- Documentation : [Wiki](https://github.com/votre-repo/wiki)
-- Bugs : [Issues](https://github.com/votre-repo/issues)
-- Contact : support@votresite.com
-
+- Contact : f4hxn@free.fr
+ 
 ## 📜 Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
-Développé avec ❤️ par [Votre Nom](https://votresite.com)
+Développé avec ❤️ par [F4HXN](https://f4hxn.fr)
